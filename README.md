@@ -34,8 +34,7 @@ print it
     distance=math.sqrt((x2-x1)**2+(y2-y1)**2)
     print(round(distance,2))
 ### OUTPUT:
-
-![Alt text](<Screenshot 2023-11-28 221943.png>)
+![Screenshot 2023-11-28 221943](https://github.com/vinodhini-17/DISTANCE-BETWEEN-TWO-POINTS/assets/145742741/387dfdf6-d429-4db3-b81a-46e4bcd9e3de)
 
 ### RESULT:
 
